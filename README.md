@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/furkan-ocalan-16186a174/)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Gapur.Gapur)
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=furkaano.furkaano)
 
 I am a self-taught passionate developer.
 
@@ -33,13 +33,6 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 - 📫 How to reach me: furkannocalanm@gmail.com;
 
 </br>
-
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-
-```
-<!--END_SECTION:waka-->
 
 
 📈 **My GitHub Stats:**
