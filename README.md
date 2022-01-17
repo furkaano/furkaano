@@ -10,10 +10,10 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently working on fields of Machine Learning and Deep Learning;
-- 🌱 I’m currently learning Natural Language Processing;
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: furkannocalanm@gmail.com;
+- 🔭 I’m currently working on fields of Machine Learning and Deep Learning
+- 🌱 I’m currently learning Natural Language Processing
+- 💬 Ask me about anything, I am happy to help
+- 📫 How to reach me: furkannocalanm@gmail.com
 
 </br>
 
