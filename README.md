@@ -11,7 +11,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 **Talking about Personal Stuffs:**
 
 - 🔭 I’m currently working on fields of Big Data and Development
-- 🌱 I’m currently improving myself on python development
+- 🌱 I’m currently improving myself on java development
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: furkannocalan@gmail.com
 
