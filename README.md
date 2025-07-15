@@ -1,26 +1,35 @@
-### Hi there, I'm Furkan
+### Hi there, I'm Furkan 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/furkan-ocalan-16186a174/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkan-ocalan-16186a174/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:furkannocalan@gmail.com)
+![Visitors](https://komarev.com/ghpvc/?username=furkaano&style=for-the-badge)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=furkaano.furkaano)
+---
 
-I am a self-taught passionate developer.
+🎯 I’m a **self-taught developer** who is passionate about building useful software  
+💻 Currently working with **Java** & improving in **Spring Framework**  
+💬 Feel free to ask me anything, I love helping  
+📫 Reach me: **furkannocalan@gmail.com**
 
-As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.  
+---
 
-**Talking about Personal Stuffs:**
+### 📊 GitHub Stats
 
-- 🔭 I’m currently working on fields of Java
-- 🌱 I’m currently improving myself on Spring
-- 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: furkannocalan@gmail.com
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=furkaano&show_icons=true&theme=radical&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkaano&layout=compact&hide_border=true&theme=radical&langs_count=8" />
+</div>
 
-</br>
+---
 
+### 🚀 Tech Stack
 
-📈 **My GitHub Stats:**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=furkaano&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkaano&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
+---
+
+🧠 Always learning. Always building.
